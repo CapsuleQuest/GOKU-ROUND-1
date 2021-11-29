@@ -1,201 +1,39 @@
 {
-   "title":"GOKU ROYALE ROUND ONE",
-   "description":"A compilation of every GOKU comic submitted so far",
-   "artist":"Gokus",
-   "author":"Gokus",
-   "cover":"https://i.imgur.com/ooHXuCa.png",
-   "chapters":{
-      "4":{
-         "title":"Sagius VS. Leon Detierra",
-         "volume":"1",
-         "groups":{
-            "Imgur":"/proxy/api/imgur/chapter/zRSajc2/"
-         },
-         "last_updated":"1625932800"
-      },
-      "6":{
-         "title":"Amongusman from Henry Stickman Game VS. Bingo Gwar and Domas the Dank Engine",
-         "volume":"1",
-         "groups":{
-            "Imgur":"/proxy/api/imgur/chapter/kQt2eG3/"
-         },
-         "last_updated":"1625932800"
-      },
-      "8":{
-         "title":"Sailor Phyrexia VS. Toa Mirraz",
-         "volume":"1",
-         "groups":{
-            "Imgur":"/proxy/api/imgur/chapter/rhGMJ6i/"
-         },
-         "last_updated":"1625932800"
-      },
-      "9":{
-         "title":"The Platonic Form of Edge VS. Hasumi",
-         "volume":"1",
-         "groups":{
-            "Imgur":"/proxy/api/imgur/chapter/U5mNxSs/"
-         },
-         "last_updated":"1625932800"
-      },
-      "16":{
-         "title":"Ossa VS. The Fresnoid Midnight Tour Guides",
-         "volume":"1",
-         "groups":{
-            "Imgur":"/proxy/api/imgur/chapter/jRDemRF/"
-         },
-         "last_updated":"1625932800"
-      },
-      "27":{
-         "title":"Harmony VS. Captain Propain",
-         "volume":"1",
-         "groups":{
-            "Imgur":"/proxy/api/imgur/chapter/2WCT0hU/"
-         },
-         "last_updated":"1625932800"
-      },
-      "29":{
-         "title":"Liz Chance VS. Minako",
-         "volume":"1",
-         "groups":{
-            "Imgur":"/proxy/api/imgur/chapter/hT1RKwS/"
-         },
-         "last_updated":"1625932800"
-      },
-      "31":{
-         "title":"Rad Coaster VS. The Verdure",
-         "volume":"1",
-         "groups":{
-            "Imgur":"/proxy/api/imgur/chapter/Ty10T5O/"
-         },
-         "last_updated":"1625932800"
-      },
-      "32":{
-         "title":"The Verdure VS. Rad Coaster",
-         "volume":"1",
-         "groups":{
-            "Imgur":"/proxy/api/imgur/chapter/SXkQYrP/"
-         },
-         "last_updated":"1625932800"
-      },
-      "35":{
-         "title":"Blazer VS. Girlboss Squad",
-         "volume":"1",
-         "groups":{
-            "Imgur":"/proxy/api/imgur/chapter/ArneIMY/"
-         },
-         "last_updated":"1625932800"
-      },
-      "40":{
-         "title":"Y̷O̶U̵N̴G̷S̸T̶E̵R̸ VS. Beekeeper Uchiha",
-         "volume":"1",
-         "groups":{
-            "Imgur":"/proxy/api/imgur/chapter/jJ83Ull/"
-         },
-         "last_updated":"1625932800"
-      },
-      "43":{
-         "title":"Cactusmon VS. Mr. Stabby",
-         "volume":"1",
-         "groups":{
-            "Imgur":"/proxy/api/imgur/chapter/r9XHvlZ/"
-         },
-         "last_updated":"1625932800"
-      },
-      "52":{
-         "title":"Kryphon Visier of Spirits VS. Skringus",
-         "volume":"1",
-         "groups":{
-            "Imgur":"/proxy/api/imgur/chapter/qUKsd1N/"
-         },
-         "last_updated":"1625932800"
-      },
-      "56":{
-         "title":"Vasya Sapozhnikov VS. Ward of the Cosmos",
-         "volume":"1",
-         "groups":{
-            "Imgur":"/proxy/api/imgur/chapter/3Pf06Gd/"
-         },
-         "last_updated":"1625932800"
-      },
-      "63":{
-         "title":"emm s. pain VS. Tasha",
-         "volume":"1",
-         "groups":{
-            "Imgur":"/proxy/api/imgur/chapter/WadS1hE/"
-         },
-         "last_updated":"1625932800"
-      },
-      "64":{
-         "title":"Tasha VS. emm s. pain",
-         "volume":"1",
-         "groups":{
-            "Imgur":"/proxy/api/imgur/chapter/mWp7ysr/"
-         },
-         "last_updated":"1625932800"
-      },
-      "67":{
-         "title":"Go and Coup VS. Toast",
-         "volume":"1",
-         "groups":{
-            "Imgur":"/proxy/api/imgur/chapter/a3CIa7E/"
-         },
-         "last_updated":"1625932800"
-      },
-      "79":{
-         "title":"Sonoa VS. Tiny Squim",
-         "volume":"1",
-         "groups":{
-            "Imgur":"/proxy/api/imgur/chapter/q8XFajn/"
-         },
-         "last_updated":"1625932800"
-      },
-      "88":{
-         "title":"Mr. F VS. Bayshroom",
-         "volume":"1",
-         "groups":{
-            "Imgur":"/proxy/api/imgur/chapter/zRqWrWK/"
-         },
-         "last_updated":"1625932800"
-      },
-      "91":{
-         "title":"Doomintroll VS. The Feathered Giant",
-         "volume":"1",
-         "groups":{
-            "Imgur":"/proxy/api/imgur/chapter/MVLLa61/"
-         },
-         "last_updated":"1625932800"
-      },
-      "92":{
-         "title":"The Feathered Giant VS. Doomintroll",
-         "volume":"1",
-         "groups":{
-            "Imgur":"/proxy/api/imgur/chapter/aybDq6i/"
-         },
-         "last_updated":"1625932800"
-      },
-      "95":{
-         "title":"Xantor the DJ Warlock VS. Michael Loup",
-         "volume":"1",
-         "groups":{
-            "Imgur":"/proxy/api/imgur/chapter/Yc9DjCR/"
-         },
-         "last_updated":"1625932800"
-      },
-      "108":{
-         "title":"Chishire Shi Kat VS. Shemp",
-         "volume":"1",
-         "groups":{
-            "Imgur":"/proxy/api/imgur/chapter/rkPdNnC/"
-         },
-         "last_updated":"1625932800"
-      },
-      "113":{
-         "title":"Dogpaw and Burnpaw VS. C.A.R.L.",
-         "volume":"1",
-         "groups":{
-            "Imgur":"/proxy/api/imgur/chapter/5JaXoPJ/"
-         },
-         "last_updated":"1625932800"
-      }
-   }
+  "title": "GOKU ROYALE ROUND ONE",
+  "description": "A compilation of every GOKU comic submitted so far",
+  "artist": "Gokus",
+  "author": "Gokus",
+  "cover": "https://i.imgur.com/ooHXuCa.png",
+  "chapters": {
+"4": {"title": "Sagius VS. Leon Detierra","volume": "1","groups": {"Imgur": "/proxy/api/imgur/chapter/zRSajc2/"},"last_updated": "1625932800"},
+"6": {"title": "Amongusman from Henry Stickman Game VS. Bingo Gwar and Domas the Dank Engine","volume": "1","groups": {"Imgur": "/proxy/api/imgur/chapter/kQt2eG3/"},"last_updated": "1625932800"},
+"8": {"title": "Sailor Phyrexia VS. Toa Mirraz","volume": "1","groups": {"Imgur": "/proxy/api/imgur/chapter/rhGMJ6i/"},"last_updated": "1625932800"},
+"9": {"title": "The Platonic Form of Edge VS. Hasumi","volume": "1","groups": {"Imgur": "/proxy/api/imgur/chapter/U5mNxSs/"},"last_updated": "1625932800"},
+"16": {"title": "Ossa VS. The Fresnoid Midnight Tour Guides","volume": "1","groups": {"Imgur": "/proxy/api/imgur/chapter/jRDemRF/"},"last_updated": "1625932800"},
+"21": {"title": "Green Demon VS. Bare Lasard","volume": "1","groups": {"Imgur": "/proxy/api/imgur/chapter/ar2emlL/"},"last_updated": "1625932800"},
+"27": {"title": "Harmony VS. Captain Propain","volume": "1","groups": {"Imgur": "/proxy/api/imgur/chapter/2WCT0hU/"},"last_updated": "1625932800"},
+"29": {"title": "Liz Chance VS. Minako","volume": "1","groups": {"Imgur": "/proxy/api/imgur/chapter/hT1RKwS/"},"last_updated": "1625932800"},
+"31": {"title": "Rad Coaster VS. The Verdure","volume": "1","groups": {"Imgur": "/proxy/api/imgur/chapter/Ty10T5O/"},"last_updated": "1625932800"},
+"32": {"title": "The Verdure VS. Rad Coaster","volume": "1","groups": {"Imgur": "/proxy/api/imgur/chapter/SXkQYrP/"},"last_updated": "1625932800"},
+"35": {"title": "Blazer VS. Girlboss Squad","volume": "1","groups": {"Imgur": "/proxy/api/imgur/chapter/ArneIMY/"},"last_updated": "1625932800"},
+"37": {"title": "Guilamme De-Moins VS. Saym","volume": "1","groups": {"Imgur": "/proxy/api/imgur/chapter/Y3HpM8A/"},"last_updated": "1625932800"},
+"40": {"title": "Y̷O̶U̵N̴G̷S̸T̶E̵R̸ VS. Beekeeper Uchiha","volume": "1","groups": {"Imgur": "/proxy/api/imgur/chapter/jJ83Ull/"},"last_updated": "1625932800"},
+"43": {"title": "Cactusmon VS. Mr. Stabby","volume": "1","groups": {"Imgur": "/proxy/api/imgur/chapter/r9XHvlZ/"},"last_updated": "1625932800"},
+"52": {"title": "Kryphon Visier of Spirits VS. Skringus","volume": "1","groups": {"Imgur": "/proxy/api/imgur/chapter/qUKsd1N/"},"last_updated": "1625932800"},
+"56": {"title": "Vasya Sapozhnikov VS. Ward of the Cosmos","volume": "1","groups": {"Imgur": "/proxy/api/imgur/chapter/3Pf06Gd/"},"last_updated": "1625932800"},
+"63": {"title": "emm s. pain VS. Tasha","volume": "1","groups": {"Imgur": "/proxy/api/imgur/chapter/WadS1hE/"},"last_updated": "1625932800"},
+"64": {"title": "Tasha VS. emm s. pain","volume": "1","groups": {"Imgur": "/proxy/api/imgur/chapter/mWp7ysr/"},"last_updated": "1625932800"},
+"67": {"title": "Go and Coup VS. Toast","volume": "1","groups": {"Imgur": "/proxy/api/imgur/chapter/a3CIa7E/"},"last_updated": "1625932800"},
+"76": {"title": "Echo the Hedgehog VS. Bo-Yellow","volume": "1","groups": {"Imgur": "/proxy/api/imgur/chapter/oiCmPmi/"},"last_updated": "1625932800"},
+"79": {"title": "Sonoa VS. Tiny Squim","volume": "1","groups": {"Imgur": "/proxy/api/imgur/chapter/q8XFajn/"},"last_updated": "1625932800"},
+"88": {"title": "Mr. F VS. Bayshroom","volume": "1","groups": {"Imgur": "/proxy/api/imgur/chapter/zRqWrWK/"},"last_updated": "1625932800"},
+"91": {"title": "Doomintroll VS. The Feathered Giant","volume": "1","groups": {"Imgur": "/proxy/api/imgur/chapter/MVLLa61/"},"last_updated": "1625932800"},
+"92": {"title": "The Feathered Giant VS. Doomintroll","volume": "1","groups": {"Imgur": "/proxy/api/imgur/chapter/aybDq6i/"},"last_updated": "1625932800"},
+"95": {"title": "Xantor the DJ Warlock VS. Michael Loup","volume": "1","groups": {"Imgur": "/proxy/api/imgur/chapter/Yc9DjCR/"},"last_updated": "1625932800"},
+"107": {"title": "Shemp VS. Chishire Shi Kat","volume": "1","groups": {"Imgur": "/proxy/api/imgur/chapter/lXFJ9Sr/"},"last_updated": "1625932800"},
+"108": {"title": "Chishire Shi Kat VS. Shemp","volume": "1","groups": {"Imgur": "/proxy/api/imgur/chapter/rkPdNnC/"},"last_updated": "1625932800"},
+"113": {"title": "Dogpaw and Burnpaw VS. C.A.R.L.","volume": "1","groups": {"Imgur": "/proxy/api/imgur/chapter/5JaXoPJ/"},"last_updated": "1625932800"},
+"116": {"title": "Gunther Finbar VS. Pilot Montgomery","volume": "1","groups": {"Imgur": "/proxy/api/imgur/chapter/A0ZGhbr/"},"last_updated": "1625932800"},
+}
+
 }
