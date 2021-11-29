@@ -1,8 +1,6 @@
 {
    "title":"GOKU ROYALE ROUND ONE",
    "description":"A compilation of every GOKU comic submitted so far",
-   "artist":"Gokus",
-   "author":"Gokus",
    "cover":"https://i.imgur.com/ooHXuCa.png",
    "chapters":{
       "4":{
@@ -133,6 +131,14 @@
          },
          "last_updated":"1625932800"
       },
+      "60":{
+         "title":"Booshroom and smol turt VS. Harold, the Unchaparoned Vagrant",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/RLi62q8/"
+         },
+         "last_updated":"1625932800"
+      },
       "63":{
          "title":"emm s. pain VS. Tasha",
          "volume":"1",
@@ -149,11 +155,35 @@
          },
          "last_updated":"1625932800"
       },
+      "66":{
+         "title":"The Toker VS. Amnara Sus",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/uUVdgxT/"
+         },
+         "last_updated":"1625932800"
+      },
       "67":{
          "title":"Go and Coup VS. Toast",
          "volume":"1",
          "groups":{
             "Imgur":"/proxy/api/imgur/chapter/a3CIa7E/"
+         },
+         "last_updated":"1625932800"
+      },
+      "73":{
+         "title":"This F*cking Guy VS. Zaveri and the Flock",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/vWLRBBV/"
+         },
+         "last_updated":"1625932800"
+      },
+      "75":{
+         "title":"Bo-Yellow VS. Echo the Hedgehog",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/ZnWDAn /"
          },
          "last_updated":"1625932800"
       },
@@ -181,6 +211,14 @@
          },
          "last_updated":"1625932800"
       },
+      "90":{
+         "title":"Jeremy Poole VS. Kyluc & Mimi",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/CkAF0O1/"
+         },
+         "last_updated":"1625932800"
+      },
       "91":{
          "title":"Doomintroll VS. The Feathered Giant",
          "volume":"1",
@@ -197,11 +235,27 @@
          },
          "last_updated":"1625932800"
       },
+      "94":{
+         "title":"Ultra 1 VS. Invader XYZ",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/GOuy59x/"
+         },
+         "last_updated":"1625932800"
+      },
       "95":{
          "title":"Xantor the DJ Warlock VS. Michael Loup",
          "volume":"1",
          "groups":{
             "Imgur":"/proxy/api/imgur/chapter/Yc9DjCR/"
+         },
+         "last_updated":"1625932800"
+      },
+      "98":{
+         "title":"Hammer Spongeson Potpants VS. the HAWB (HakuAkuWakkoBaku)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/JEQKlNm/"
          },
          "last_updated":"1625932800"
       },
@@ -218,6 +272,14 @@
          "volume":"1",
          "groups":{
             "Imgur":"/proxy/api/imgur/chapter/rkPdNnC/"
+         },
+         "last_updated":"1625932800"
+      },
+      "110":{
+         "title":"Giuseppe VS. Kass the Lass",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/eRomgqx/"
          },
          "last_updated":"1625932800"
       },
