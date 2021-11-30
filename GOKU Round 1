@@ -1,8 +1,8 @@
 {
    "title":"GOKU ROYALE ROUND ONE",
    "description":"A compilation of every GOKU comic submitted so far",
-   "artist":"The artist for each comic has been placed after the characters fighting",
-   "author":"-",
+   "artist":"-",
+   "author":"The creator of each comic has been placed after the characters fighting",
    "cover":"https://i.imgur.com/ooHXuCa.png",
    "chapters":{
       "1":{
@@ -45,6 +45,14 @@
          },
          "last_updated":"1638248340"
       },
+      "7":{
+         "title":"Toa Mirraz VS. Sailor Phyrexia (by rex)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/KGggtfB/"
+         },
+         "last_updated":"1638248340"
+      },
       "8":{
          "title":"Sailor Phyrexia VS. Toa Mirraz (by moonsettler)",
          "volume":"1",
@@ -66,6 +74,14 @@
          "volume":"1",
          "groups":{
             "Imgur":"/proxy/api/imgur/chapter/M19fuZa/"
+         },
+         "last_updated":"1638248340"
+      },
+      "13":{
+         "title":"Hurdy-Gurdy VS. Rina Shiromiya (by CamCato)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/ipFKrfK/"
          },
          "last_updated":"1638248340"
       },
@@ -109,6 +125,14 @@
          },
          "last_updated":"1638248340"
       },
+      "23":{
+         "title":"Spiker VS. Leo Seraph and Floor Clown (by Spiker)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/uq0Ce75/"
+         },
+         "last_updated":"1638248340"
+      },
       "27":{
          "title":"Harmony VS. Captain Propain (by Capsule)",
          "volume":"1",
@@ -122,6 +146,14 @@
          "volume":"1",
          "groups":{
             "Imgur":"/proxy/api/imgur/chapter/hT1RKwS/"
+         },
+         "last_updated":"1638248340"
+      },
+      "30":{
+         "title":"Minako VS. Liz Chance (by Moiderah)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/1NCgoBv/"
          },
          "last_updated":"1638248340"
       },
@@ -189,6 +221,14 @@
          },
          "last_updated":"1638248340"
       },
+      "49":{
+         "title":"Fujoshi na Faita VS. Mr. Mister (by TheRebelSpy)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/genuyjr/"
+         },
+         "last_updated":"1638248340"
+      },
       "52":{
          "title":"Kryphon Visier of Spirits VS. Skringus (by Mounds)",
          "volume":"1",
@@ -210,6 +250,14 @@
          "volume":"1",
          "groups":{
             "Imgur":"/proxy/api/imgur/chapter/3Pf06Gd/"
+         },
+         "last_updated":"1638248340"
+      },
+      "57":{
+         "title":"Charlie & Christie VS. Sherley Holmes (by KrispyKreme)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/yi9l9Ng/"
          },
          "last_updated":"1638248340"
       },
@@ -269,6 +317,14 @@
          },
          "last_updated":"1638248340"
       },
+      "72":{
+         "title":"The Axiom/AUTO VS. Shell (by Maple)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/uNHSgeN/"
+         },
+         "last_updated":"1638248340"
+      },
       "73":{
          "title":"This F*cking Guy VS. Zaveri and the Flock (by Feaurie)",
          "volume":"1",
@@ -298,6 +354,14 @@
          "volume":"1",
          "groups":{
             "Imgur":"/proxy/api/imgur/chapter/oiCmPmi/"
+         },
+         "last_updated":"1638248340"
+      },
+      "78":{
+         "title":"Snailman VS. John the Digger (by Chaddiffer)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/FBe7RYs/"
          },
          "last_updated":"1638248340"
       },
@@ -333,6 +397,14 @@
          },
          "last_updated":"1638248340"
       },
+      "89":{
+         "title":"Kyluc & Mimi VS. Jeremy Poole (by jam)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/SMglHtM/"
+         },
+         "last_updated":"1638248340"
+      },
       "90":{
          "title":"Jeremy Poole VS. Kyluc & Mimi (by Shinto)",
          "volume":"1",
@@ -357,6 +429,14 @@
          },
          "last_updated":"1638248340"
       },
+      "93":{
+         "title":"Invader XYZ VS. Ultra 1 (by galgoa)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/9a1gvzb/"
+         },
+         "last_updated":"1638248340"
+      },
       "94":{
          "title":"Ultra 1 VS. Invader XYZ (by RedStalk)",
          "volume":"1",
@@ -378,6 +458,38 @@
          "volume":"1",
          "groups":{
             "Imgur":"/proxy/api/imgur/chapter/JEQKlNm/"
+         },
+         "last_updated":"1638248340"
+      },
+      "99":{
+         "title":"Kohimaru VS. Lovestruck Bear (by Hisagium)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/b0iTyih/"
+         },
+         "last_updated":"1638248340"
+      },
+      "103":{
+         "title":"The Impasta VS. Sliceman and Mysterious Onlooker (by wayan)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/zD0XCtd/"
+         },
+         "last_updated":"1638248340"
+      },
+      "104":{
+         "title":"Sliceman and Mysterious Onlooker VS. The Impasta (by Skoobert Doo)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/bVZBe6c/"
+         },
+         "last_updated":"1638248340"
+      },
+      "106":{
+         "title":"Zhanpeng VS. Senera Pluin (by 0ystercause)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/0dv7ulL/"
          },
          "last_updated":"1638248340"
       },
@@ -413,11 +525,35 @@
          },
          "last_updated":"1638248340"
       },
+      "111":{
+         "title":"Gertrude VS. Disaster Ranger (by Aegis)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/L4mTTAp/"
+         },
+         "last_updated":"1638248340"
+      },
+      "112":{
+         "title":"Disaster Ranger VS. Gertrude (by derpcat)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/uaxAXLB/"
+         },
+         "last_updated":"1638248340"
+      },
       "113":{
          "title":"Dogpaw and Burnpaw VS. C.A.R.L. (by Gray)",
          "volume":"1",
          "groups":{
             "Imgur":"/proxy/api/imgur/chapter/5JaXoPJ/"
+         },
+         "last_updated":"1638248340"
+      },
+      "114":{
+         "title":"C.A.R.L. VS. Dogpaw and Burnpaw (by Paper Shredder)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/moU8Bhz/"
          },
          "last_updated":"1638248340"
       },
