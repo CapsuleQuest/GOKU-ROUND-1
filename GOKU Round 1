@@ -2,7 +2,7 @@
    "title":"GOKU ROYALE ROUND ONE",
    "description":"A compilation of every GOKU comic submitted so far",
    "artist":"The artist for each comic has been placed after the characters fighting",
-   "author":"",
+   "author":"-",
    "cover":"https://i.imgur.com/ooHXuCa.png",
    "chapters":{
       "1":{
@@ -61,6 +61,14 @@
          },
          "last_updated":"1638248340"
       },
+      "11":{
+         "title":"DM VS. Linax (by Geo)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/M19fuZa/"
+         },
+         "last_updated":"1638248340"
+      },
       "16":{
          "title":"Ossa VS. The Fresnoid Midnight Tour Guides (by Onion)",
          "volume":"1",
@@ -74,6 +82,14 @@
          "volume":"1",
          "groups":{
             "Imgur":"/proxy/api/imgur/chapter/G5BbDeL/"
+         },
+         "last_updated":"1638248340"
+      },
+      "20":{
+         "title":"Clown Pound VS. Palden Lhamo (by Dream)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/NubgA5G/"
          },
          "last_updated":"1638248340"
       },
@@ -125,6 +141,14 @@
          },
          "last_updated":"1638248340"
       },
+      "33":{
+         "title":"Deda Yaga VS. Just A Small Party (J.A.S.P) (by Rustytoast)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/QJxIzze/"
+         },
+         "last_updated":"1638248340"
+      },
       "35":{
          "title":"Blazer VS. Girlboss Squad (by mithryl)",
          "volume":"1",
@@ -170,6 +194,14 @@
          "volume":"1",
          "groups":{
             "Imgur":"/proxy/api/imgur/chapter/qUKsd1N/"
+         },
+         "last_updated":"1638248340"
+      },
+      "54":{
+         "title":"Batwave VS. Kayu the Summoner (by Cal)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/6uI5lTF/"
          },
          "last_updated":"1638248340"
       },
@@ -229,11 +261,27 @@
          },
          "last_updated":"1638248340"
       },
+      "68":{
+         "title":"Toast VS. Go and Coup (by MrFlux)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/uLqzTU8/"
+         },
+         "last_updated":"1638248340"
+      },
       "73":{
          "title":"This F*cking Guy VS. Zaveri and the Flock (by Feaurie)",
          "volume":"1",
          "groups":{
             "Imgur":"/proxy/api/imgur/chapter/vWLRBBV/"
+         },
+         "last_updated":"1638248340"
+      },
+      "74":{
+         "title":"Zaveri and the Flock VS. This F*cking Guy (by Vince)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/xmx7CFy/"
          },
          "last_updated":"1638248340"
       },
@@ -258,6 +306,22 @@
          "volume":"1",
          "groups":{
             "Imgur":"/proxy/api/imgur/chapter/q8XFajn/"
+         },
+         "last_updated":"1638248340"
+      },
+      "81":{
+         "title":"Leon of House Terda VS. Dan Backslide (by Lobatus)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/qRk1C2f/"
+         },
+         "last_updated":"1638248340"
+      },
+      "84":{
+         "title":"Liquidation Manager Davis Wong VS. Bonito Whodunit (by Stryvec)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/YnxZPSE/"
          },
          "last_updated":"1638248340"
       },
@@ -330,6 +394,14 @@
          "volume":"1",
          "groups":{
             "Imgur":"/proxy/api/imgur/chapter/rkPdNnC/"
+         },
+         "last_updated":"1638248340"
+      },
+      "109":{
+         "title":"Kass the Lass VS. Giuseppe (by Spookie)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/JFpppTD/"
          },
          "last_updated":"1638248340"
       },
