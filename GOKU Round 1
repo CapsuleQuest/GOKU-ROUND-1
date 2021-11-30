@@ -1,6 +1,6 @@
 {
    "title":"GOKU ROYALE ROUND ONE",
-   "description":"A compilation of every GOKU comic submitted so far",
+   "description":"A compilation of every Round 1 GOKU ROYALE comic",
    "artist":"-",
    "author":"The creator of each comic has been placed after the characters fighting",
    "cover":"https://i.imgur.com/ooHXuCa.png",
@@ -9,7 +9,7 @@
          "title":"Mewza VS. Musty (by Cevapi)",
          "volume":"1",
          "groups":{
-            "Imgur":"/proxy/api/imgur/chapter/eqIpSQY/"
+            "Imgur":"/proxy/api/imgur/chapter/mhEdIGp/"
          },
          "last_updated":"1638248340"
       },
